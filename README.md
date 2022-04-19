@@ -8,11 +8,6 @@ When I'm not scouring the internet satiating my undying curiosity, I pursue my i
 
 If you are into strength training, anime, computer science, reading, or self-improvement, hit me up and let's be friends :)
 
-
-- 🌱 I’m currently learning **ReactJS**
-- 📝 I sometimes write articles on [faaez.co.in](faaez.co.in)
-- 📫 Reach me @ **razeenfaaez@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/faaez-razeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faaez-razeen" height="30" width="40" /></a>
