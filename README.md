@@ -5,15 +5,14 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blazyy" alt="blazyy" /></a> </p> -->
 
+When I'm not scouring the internet satiating my undying curiosity, I pursue my interest in computer science. I dabbled in data science for 2 years before deciding that it is not for me. I am currently moving on to more greener pastures, by exploring different technology stacks in the software engineering domain. I am currently learnig ReactJS, and plan to make a very cool project soon.
+
+If you are into strength training, anime, computer science, reading, or self-improvement, hit me up and let's be friends :)
+
+
 - 🌱 I’m currently learning **ReactJS**
-
-- 📝 I regularly write articles on [faaez.co.in](faaez.co.in)
-
-- 💬 Ask me about **data science, strength training, reading, anime, self-improvement**
-
-- 📫 How to reach me **razeenfaaez@gmail.com**
-
-- ⚡ Fun fact **I completed 12th grade before 11th.**
+- 📝 I sometimes write articles on [faaez.co.in](faaez.co.in)
+- 📫 Reach me @ **razeenfaaez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,6 +27,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blazyy&show_icons=true&locale=en&layout=compact" alt="blazyy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blazyy&show_icons=true&locale=en" alt="blazyy" /></p>
+<details>
+  <summary><b>📊 Github Stats</b></summary>
+  <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=blazyy&show_icons=true&locale=en" alt="blazyy" />
+</details>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blazyy&" alt="blazyy" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blazyy&" alt="blazyy" /></p>
+ -->
