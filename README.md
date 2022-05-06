@@ -4,7 +4,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blazyy" alt="blazyy" /></a> </p> -->
 
-When I'm not scouring the internet satiating my undying curiosity, I pursue my interest in computer science. I dabbled in data science for 2 years before deciding that it is not for me. I am currently moving on to more greener pastures, by exploring different technology stacks in the software engineering domain. I am currently learning ReactJS, and plan to make a very cool project soon.
+When I'm not scouring the internet satiating my undying curiosity, I pursue my interest in computer science. I am currently learning ReactJS, and plan to make a very cool project soon.
+
+<!-- I dabbled in data science for 2 years before deciding that it is not for me. I am currently moving on to more greener pastures, by exploring different technology stacks in the software engineering domain.  -->
 
 If you are into strength training, anime, computer science, reading, or self-improvement, hit me up and let's be friends :)
 
