@@ -4,7 +4,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blazyy" alt="blazyy" /></a> </p> -->
 
+<p align="center">
 When I'm not scouring the internet satiating my undying curiosity, I pursue my interest in computer science. 
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
