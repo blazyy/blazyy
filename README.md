@@ -6,10 +6,6 @@
 
 When I'm not scouring the internet satiating my undying curiosity, I pursue my interest in computer science. 
 
-<!-- I dabbled in data science for 2 years before deciding that it is not for me. I am currently moving on to more greener pastures, by exploring different technology stacks in the software engineering domain.  -->
-
-If you are into strength training, anime, computer science, reading, or self-improvement, hit me up and let's be friends :)
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/faaez-razeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faaez-razeen" height="30" width="40" /></a>
