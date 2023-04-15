@@ -1,6 +1,6 @@
 <p>Hi there! 👋</p>
 
-<p>I'm Faaez, a graduate student studying Computer Science at the University of Illinois Urbana-Champaign. I'm passionate about using machine learning to develop large-scale distributed software systems that can make our lives easier.</p>
+<p>I'm Faaez, a graduate student studying Computer Science at the University of Illinois Urbana-Champaign. I'm passionate about using my background in machine learning and web development to develop large-scale distributed software systems augmented with machine intelligence.</p>
 
 <p>I'm well-versed in Python for end-to-end machine learning workflows and JavaScript for scalable web application development. I also have experience with databases like MySQL and MongoDB and cloud platforms like Microsoft Azure, AWS, and GCP.</p>
 
