@@ -1,6 +1,6 @@
 <p>Hi there! 👋</p>
 
-<p>I am an ambitious software engineer with a passion for full stack web development and large scale distributed systems. Currently pursuing a Master's in Computer Science at the University of Illinois Urbana-Champaign, I hold a strong academic record with a GPA of 3.93/4.00. My journey in technology began with a Bachelor's in Technology in Computer Science and Engineering from BSA Crescent Institute of Science and Technology in Chennai, India, where I graduated with a GPA of 9.06/10.00.</p>
+<p>I am an ambitious software engineer with a passion for full-stack web development and large scale distributed systems. Currently pursuing a Master's in Computer Science at the University of Illinois Urbana-Champaign, I hold a strong academic record with a GPA of 3.93/4.00. My journey in technology began with a Bachelor's in Technology in Computer Science and Engineering from BSA Crescent Institute of Science and Technology in Chennai, India, where I graduated with a GPA of 9.06/10.00.</p>
 
 <p>My professional experience reflects my commitment to excellence. As a Software Engineer Intern at Graybar in Champaign, Illinois, I lead the frontend development for an internal app rewrite and played a pivotal role in optimizing API efficiency, reducing codebase, and conceptualizing a web application that significantly streamlined quote processing.</p>
 
