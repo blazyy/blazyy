@@ -18,6 +18,8 @@
 - CI/CD (GitHub Actions, Azure DevOps)
 - Machine Learning model orchestration and maintenance (MLOps)
 
+I also served as an instructor for CS 107 (Data Science Discovery) at the University of Illinois, Urbana-Champaign. My responsibilities included leading bi-weekly lab sessions for 60 undergraduate students from diverse academic backgrounds, developing course materials, hosting office hours, and grading assignments. I am proud to have been recognized on the List of Teachers Ranked as Excellent by their Students in Spring 2023.
+
 <p>Beyond my work, I am passionate about algorithm visualization and open-source contributions. I've developed algorithm visualizers and actively contributed to open-source projects. I've even designed a personal website to showcase my projects and blog posts, using Next.js and React.</p>
 
 <p>With a strong academic foundation, hands-on experience, and a dedication to continuous improvement, I am eager to make a meaningful impact in the world of software engineering.</p>
