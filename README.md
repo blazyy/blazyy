@@ -1,15 +1,15 @@
 <p>Hi there! 👋</p>
 
-<p>I'm Faaez, a graduate student studying Computer Science at the University of Illinois Urbana-Champaign. I'm passionate about using my background in machine learning and web development to develop large-scale distributed software systems augmented with machine intelligence.</p>
+<p>I am an ambitious software engineer with a passion for full stack web development and large scale distributed systems. Currently pursuing a Master's in Computer Science at the University of Illinois Urbana-Champaign, I hold a strong academic record with a GPA of 3.93/4.00. My journey in technology began with a Bachelor's in Technology in Computer Science and Engineering from BSA Crescent Institute of Science and Technology in Chennai, India, where I graduated with a GPA of 9.06/10.00.</p>
 
-<p>I'm well-versed in Python for end-to-end machine learning workflows and JavaScript for scalable web application development. I also have experience with databases like MySQL and MongoDB and cloud platforms like Microsoft Azure, AWS, and GCP.</p>
+<p>My professional experience reflects my commitment to excellence. As a Software Engineer Intern at Graybar in Champaign, Illinois, I lead the frontend development for an internal app rewrite and played a pivotal role in optimizing API efficiency, reducing codebase, and conceptualizing a web application that significantly streamlined quote processing.</p>
 
-<p>In my previous role as a Software Engineer at Thinkbridge, I facilitated and managed all aspects of machine learning model deployment in a cross-functional 14+ person team. I also designed and implemented a custom machine learning model versioning system that resulted in a significant reduction of monthly hosting costs.</p>
+<p>My technical skills encompass a range of programming languages, databases, and cloud platforms, including Python, TypeScript, React, MySQL, MongoDB, Microsoft Azure, AWS, and GCP.</p>
 
-<p>As an intern at Whirldata Labs, I overhauled a data lake querying flow to use Presto instead of MySQL, leading to a 4x increase in performance. I also engineered a sequential metadata generator on AWS that cut down ETL time for data analysts by 90%.</p>
+<p>Beyond my work, I am passionate about algorithm visualization and open-source contributions. I've developed algorithm visualizers and actively contributed to open-source projects. I've even designed a personal website to showcase my projects and blog posts, using Next.js and React.</p>
 
-<p>I love working on side projects, like my Pathfinding Algorithm Visualizer where I implemented 4 classic pathfinding algorithms and integrated Randomized Depth-First Search to automatically generate mazes. I also contributed to open-source Python repositories by rectifying flaky tests and merging pull requests.</p>
+<p>With a strong academic foundation, hands-on experience, and a dedication to continuous improvement, I am eager to make a meaningful impact in the world of software engineering.</p>
 
-<p>Check out my <a href="https://faaez.co.in/">portfolio website</a> to see more of my projects and blog posts.</p>
+<p>You can connect with me via email at razeenfaaez@gmail.com or visit my portfolio at faaez.co.in. Feel free to connect with me professionally on LinkedIn at linkedin.com/in/faaez-razeen.</p>
 
-<p>I'm currently seeking internship opportunities where I can contribute my skills and learn from experienced professionals. Feel free to reach out to me at razeenfaaez@gmail.com or connect with me on <a href="https://www.linkedin.com/in/faaez-razeen/">LinkedIn</a>.</p>
+<p>In my spare time, I pursue a variety of hobbies, including but not limited to: weightlifting, cooking, and reading. My guiding principle centers on a daily dedication to self-improvement, echoing the Japanese philosophy of Kaizen.</p>
