@@ -1,21 +1,17 @@
 <p>Hi there! 👋</p>
 
-<p>I am an ambitious software engineer with a passion for full-stack web development and large scale distributed systems. Currently pursuing a Master's in Computer Science at the University of Illinois Urbana-Champaign, I hold a strong academic record with a GPA of 3.93/4.00. My journey in technology began with a Bachelor's in Technology in Computer Science and Engineering from BSA Crescent Institute of Science and Technology in Chennai, India, where I graduated with a GPA of 9.06/10.00.</p>
+<p>I am an ambitious software engineer with a passion for full-stack web development and large scale distributed systems. Currently pursuing a Master's in Computer Science at the University of Illinois Urbana-Champaign, I hold a strong academic record with a GPA of 3.93/4.00.</p>
 
 <p>My professional experience reflects my commitment to excellence. As a Software Engineer Intern at Graybar in Champaign, Illinois, I lead the frontend development for an internal app rewrite and played a pivotal role in optimizing API efficiency, reducing codebase, and conceptualizing a web application that significantly streamlined quote processing.</p>
 
 <p>Due to my varied work experience, I have experiences in the following:</p>
 
-- Data Structures & Algorithms (LeetCode, Hackerrank)
 - FullStack Web Development using TypeScript/React/Redux/Next.js
 - Building pretty algorithm visualizers (sorting, pathfinding, cellular automata)
-- Database experience in MongoDB/MySQL/Azure Storage/Presto/AWS DynamoDB/AWS RedShift
+- Database experience in MongoDB/MySQL/Azure Storage/Presto
 - Creating REST APIs from scratch in Python & JavaScript (Flask, FastAPI, Express)
-- Writing web-crawlers (BeautifulSoup, Selenium) to get data from public websites
 - Telling stories with data using visualization libraries (matplotlib, seaborn, folium)
 - Predictive analysis using machine learning algorithms (scikit-learn) and neural networks (TensorFlow)
-- Machine learning model deployment on Azure (WebApps & WebJobs)
-- CI/CD (GitHub Actions, Azure DevOps)
 - Machine Learning model orchestration and maintenance (MLOps)
 
 I also served as an instructor for CS 107 (Data Science Discovery) at the University of Illinois, Urbana-Champaign. My responsibilities included leading bi-weekly lab sessions for 60 undergraduate students from diverse academic backgrounds, developing course materials, hosting office hours, and grading assignments. I am proud to have been recognized on the List of Teachers Ranked as Excellent by their Students in Spring 2023.
