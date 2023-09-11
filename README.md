@@ -4,7 +4,19 @@
 
 <p>My professional experience reflects my commitment to excellence. As a Software Engineer Intern at Graybar in Champaign, Illinois, I lead the frontend development for an internal app rewrite and played a pivotal role in optimizing API efficiency, reducing codebase, and conceptualizing a web application that significantly streamlined quote processing.</p>
 
-<p>My technical skills encompass a range of programming languages, databases, and cloud platforms, including Python, TypeScript, React, MySQL, MongoDB, Microsoft Azure, AWS, and GCP.</p>
+<p>Due to my varied work experience, I have experiences in the following:</p>
+
+- Data Structures & Algorithms (LeetCode, Hackerrank)
+- FullStack Web Development using TypeScript/React/Redux/Next.js
+- Building pretty algorithm visualizers (sorting, pathfinding, cellular automata)
+- Database experience in MongoDB/MySQL/Azure Storage/Presto/AWS DynamoDB/AWS RedShift
+- Creating REST APIs from scratch in Python & JavaScript (Flask, FastAPI, Express)
+- Writing web-crawlers (BeautifulSoup, Selenium) to get data from public websites
+- Telling stories with data using visualization libraries (matplotlib, seaborn, folium)
+- Predictive analysis using machine learning algorithms (scikit-learn) and neural networks (TensorFlow)
+- Machine learning model deployment on Azure (WebApps & WebJobs)
+- CI/CD (GitHub Actions, Azure DevOps)
+- Machine Learning model orchestration and maintenance (MLOps)
 
 <p>Beyond my work, I am passionate about algorithm visualization and open-source contributions. I've developed algorithm visualizers and actively contributed to open-source projects. I've even designed a personal website to showcase my projects and blog posts, using Next.js and React.</p>
 
