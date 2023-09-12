@@ -19,4 +19,4 @@ You're welcome to reach out to me through email at razeenfaaez@gmail.com or expl
 
 Although I no longer have much time for gaming, some of my all-time favorite games include RollerCoaster Tycoon, Final Fantasy Tactics, FFVII: Crisis Core, Sekiro: Shadows Die Twice, Burnout Paradise, and Minecraft.
 
-In my spare time, I pursue a variety of hobbies, including but not limited to: weightlifting, cooking, and reading. My guiding principle centers on a daily dedication to self-improvement, echoing the Japanese philosophy of Kaizen (改善).
+In my spare time, I pursue a variety of hobbies, including but not limited to: strength training, cooking, and reading. My guiding principle centers on a daily dedication to self-improvement, echoing the Japanese philosophy of Kaizen (改善).
