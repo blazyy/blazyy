@@ -15,7 +15,7 @@ I served as a Graduate Teaching Assistant for CS 107 (Data Science Discovery) at
 
 Beyond my work, I have interests in algorithm visualization, open-source contribution, and crafting user-centric applications. My portfolio includes sorting and pathfinding algorithm visualizers, substantial contributions to open-source endeavors, and the creation of a personal website that elegantly presents my projects and blog posts.
 
-You're welcome to reach out to me through email at razeenfaaez@gmail.com or explore my portfolio at faaez.co.in. Additinonally, I invite you to connect with me professionally on LinkedIn at https://www.linkedin.com/in/faaez-razeen.
+You're welcome to reach out to me through email at razeenfaaez@gmail.com or explore my portfolio at https://faaez.co.in. Additinonally, I invite you to connect with me professionally on LinkedIn at https://www.linkedin.com/in/faaez-razeen.
 
 Although I no longer have much time for gaming, some of my all-time favorite games include RollerCoaster Tycoon, Final Fantasy Tactics, FFVII: Crisis Core, Burnout Paradise, and Minecraft.
 
