@@ -1,25 +1,22 @@
-<p>Hi there! 👋</p>
+Hi there! 👋
 
-<p>I am an ambitious software engineer with a passion for full-stack web development and large scale distributed systems. Currently pursuing a Master's in Computer Science at the University of Illinois Urbana-Champaign, I hold a strong academic record with a GPA of 3.93/4.00.</p>
+Ambitious software engineer dedicated to mastering full-stack web development and building highly available distributed systems, currently pursuing a Master's in Computer Science at the University of Illinois Urbana-Champaign (UIUC).
 
-<p>My professional experience reflects my commitment to excellence. As a Software Engineer Intern at Graybar in Champaign, Illinois, I lead the frontend development for an internal app rewrite and played a pivotal role in optimizing API efficiency, reducing codebase, and conceptualizing a web application that significantly streamlined quote processing.</p>
+My diverse work experiences have equipped me with expertise in the following areas:
+- Full-Stack Web Development: TypeScript, React, Redux, Next.js, Express, Node
+- Algorithm Visualization: Sorting, Pathfinding, Cellular Automata
+- Databases: MongoDB, MySQL, Azure Storage, Presto
+- REST API Development: Flask, FastAPI, Express
+- Data Visualization: Pandas, Matplotlib, Seaborn
+- Machine Learning: Scikit-learn, TensorFlow
+- MLOps: Machine learning model orchestration and maintenance
 
-<p>Due to my varied work experience, I have experiences in the following:</p>
+I served as a Graduate Teaching Assistant for CS 107 (Data Science Discovery) at UIUC during Spring 2023. My responsibilities included leading bi-weekly lab sessions for 60 undergraduate students from diverse academic backgrounds, developing course materials, hosting office hours, and grading assignments. I am proud to have been recognized on the List of Teachers Ranked as Excellent by their Students in Spring 2023.
 
-- FullStack Web Development using TypeScript/React/Redux/Next.js
-- Building pretty algorithm visualizers (sorting, pathfinding, cellular automata)
-- Database experience in MongoDB/MySQL/Azure Storage/Presto
-- Creating REST APIs from scratch in Python & JavaScript (Flask, FastAPI, Express)
-- Telling stories with data using visualization libraries (matplotlib, seaborn, folium)
-- Predictive analysis using machine learning algorithms (scikit-learn) and neural networks (TensorFlow)
-- Machine Learning model orchestration and maintenance (MLOps)
+Beyond my work, I have interests in algorithm visualization, open-source contribution, and crafting user-centric applications. My portfolio includes sorting and pathfinding algorithm visualizers, substantial contributions to open-source endeavors, and the creation of a personal website that elegantly presents my projects and blog posts.
 
-I also served as an instructor for CS 107 (Data Science Discovery) at the University of Illinois, Urbana-Champaign. My responsibilities included leading bi-weekly lab sessions for 60 undergraduate students from diverse academic backgrounds, developing course materials, hosting office hours, and grading assignments. I am proud to have been recognized on the List of Teachers Ranked as Excellent by their Students in Spring 2023.
+You can connect with me via email at razeenfaaez@gmail.com or visit my portfolio at faaez.co.in. Feel free to connect with me on LinkedIn at https://www.linkedin.com/in/faaez-razeen.
 
-<p>Beyond my work, I am passionate about algorithm visualization and open-source contributions. I've developed algorithm visualizers and actively contributed to open-source projects. I've even designed a personal website to showcase my projects and blog posts, using Next.js and React.</p>
+Although I no longer have much time for gaming, some of my all-time favorite games include RollerCoaster Tycoon, Final Fantasy Tactics, FFVII: Crisis Core, Burnout Paradise, and Minecraft.
 
-<p>With a strong academic foundation, hands-on experience, and a dedication to continuous improvement, I am eager to make a meaningful impact in the world of software engineering.</p>
-
-<p>You can connect with me via email at razeenfaaez@gmail.com or visit my portfolio at faaez.co.in. Feel free to connect with me professionally on LinkedIn at linkedin.com/in/faaez-razeen.</p>
-
-<p>In my spare time, I pursue a variety of hobbies, including but not limited to: weightlifting, cooking, and reading. My guiding principle centers on a daily dedication to self-improvement, echoing the Japanese philosophy of Kaizen.</p>
+In my spare time, I pursue a variety of hobbies, including but not limited to: weightlifting, cooking, and reading. My guiding principle centers on a daily dedication to self-improvement, echoing the Japanese philosophy of Kaizen (改善).
