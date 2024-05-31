@@ -1,6 +1,6 @@
 Hi there! 👋
 
-Ambitious software engineer dedicated to mastering full-stack web development and building highly available distributed systems, currently pursuing a Master's in Computer Science at the University of Illinois Urbana-Champaign (UIUC).
+Ambitious software engineer dedicated to mastering full-stack web development and building highly available distributed systems, with a Master's in Computer Science at the University of Illinois Urbana-Champaign (UIUC).
 
 My diverse work experiences have equipped me with expertise in the following areas:
 - Full-Stack Web Development: TypeScript, React, Redux, Next.js, Express, Node
